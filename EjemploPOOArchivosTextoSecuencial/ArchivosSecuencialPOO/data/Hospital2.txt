@@ -1,0 +1,28 @@
+San Benito;140;&.2f
+Isidro Ayora;120;&.2f
+Benjamin Carrion;180;&.2f
+San Pablo Torres;100;&.2f
+San Benito;140;1503,400000
+Isidro Ayora;120;1223,600000
+Benjamin Carrion;180;1809,100000
+San Pablo Torres;100;1405,900000
+San Benito;140;1503,40
+Isidro Ayora;120;1223,60
+Benjamin Carrion;180;1809,10
+San Pablo Torres;100;1405,90
+San Benito;140;1503,40
+Isidro Ayora;120;1223,60
+Benjamin Carrion;180;1809,10
+San Pablo Torres;100;1405,90
+San Benito;140;1503,40
+Isidro Ayora;120;1223,60
+Benjamin Carrion;180;1809,10
+San Pablo Torres;100;1405,90
+San Benito;140;1503,40
+Isidro Ayora;120;1223,60
+Benjamin Carrion;180;1809,10
+San Pablo Torres;100;1405,90
+San Benito;140;1503,40
+Isidro Ayora;120;1223,60
+Benjamin Carrion;180;1809,10
+San Pablo Torres;100;1405,90

@@ -13,7 +13,35 @@ public class Hospital {
     String nombre;
     int numeroCamas;
     double presupuesto;
+    
+    public Hospital(String n, int nC, double p){
+        nombre = n;
+        numeroCamas = nC;
+        presupuesto = p;
+    }
+    public void establecerNombre(String c){
+        nombre = c;
+    }
+    public void establecerNumeroCamas(int c){
+        numeroCamas = c;
+    }
+    public void establecerPresupuesto(double c){
+        presupuesto = c;
+    }
+    
+    public String obtenerNombre(){
+        return nombre;
+    }
+    public int obtenerNumeroCamas(){
+        return numeroCamas;
+    }
+    public double obtenerPresupuesto(){
+        return presupuesto;
+    }
+    
+    
 }
+
 
 /* 
     Agregar valor de objetos de tipo Hospital a un archivo
